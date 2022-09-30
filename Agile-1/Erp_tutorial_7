@@ -1,0 +1,51 @@
+User Stories:-An erp is used to manage the Resources for college and inventory.Here in college  employees,students,faculty etc . 
+
+We need a log-in page with verification of the account . Session time out for security.Forgot password and re-set password . 
+
+We need an option to change the user name and the details.In KL University we have so many branches and programs we have to maintain all the details of the students in well designed managing Systems.
+
+ERP systems will also provide transparency into your complete business process by tracking all aspects of production, logistics, and financials. 
+
+These integrated systems act as a business's central hub for end-to-end workflow and data, allowing a variety of departments to access.
+
+Here we are given with KL University ERP. We need Different types of roles in erp system to manage the students,faculty, and non-teaching staff. 
+
+Roles to be involved are Administrator,Student, faculty and office. The design of the database is to be in a way that it follows all rules of normalization.
+
+There is an Administrator role where he has the access to the all roles means the students,faculty and office with read,write,modify and adding user. 
+
+He has all the permissions with him.
+
+Teacher should have a option to mark attendance,upload marks,sharing course materialand he should get accessed to the only his class students.
+
+Office role is there where they can generate reports, status of the students and to maintain the fee payment datails with them.
+
+Student role is there where he can register for a course and he can choose his sections and the details of the teacher and course ID, course Name, Faculty Name at the time of the registration.
+
+Student have to pay the fee for transport and tuition.
+
+Issues:-
+
+Most of the issues are faced by the Students where he or she is facing at Fee payment's for tuition or transport or mess.
+
+At time of registration not mentioning on how many courses we need to opt.
+
+Project management. ERP implementations entail multiple phases: discovery and planning, design, development, data migration, testing, deployment, support and post-launch updates. Each phase brings critical tasks, and all elements need to stay on track, which requires meticulous project management. Additionally, successful ERP implementations require participation from all the groups that will be involved in developing and using the system. That can be incredibly challenging, because each department is juggling its ERP project responsibilities with multiple other priorities.
+
+Strong project and people management, which includes setting realistic expectations, time frames and milestones, along with timely two-way communication, is critical to success. As with change management, backing from executives and other top leaders is essential to conquering this challenge, as well.
+
+Project planning: Organizations often underestimate the time and budget necessary for a successful implementation.One of the most common causes of budget overruns is scope creep—when a business adds capabilities or features to the system that weren’t part of the original plan—and another is underestimating staffing needs, according to Statista.
+
+Developing a clear and realistic plan from the start can help to avoid those issues. A realistic project plan that acknowledges possible speed bumps and minor cost overruns and addresses them in advance will simplify that decision-making process and keep the project on track.
+
+Data integration: One of the key advantages of ERP is that it provides a single, accurate source of data for the whole organization. A key step in ERP implementation is data migration, which typically involves moving data from multiple older systems into the ERP database. But first, you have to find all of your data. This may be much more challenging than you expect. The information may be spread far and wide across the organization, buried in accounting systems, department-specific applications, spreadsheets and perhaps on paper.
+
+Well-planned data migration can help to keep the entire ERP implementation project on time and on budget. It’s also an opportunity to winnow out obsolete and redundant data lurking in the organization’s older systems. In contrast, underprioritizing data migration can cause issues such as inaccurate or duplicate data and challenges to your go-live date.
+
+Data quality: Once the organization has located all data sources, it can start thinking about migrating it to the ERP system. But that may involve a serious data hygiene exercise. Because multiple departments interact with the same customers, products and orders, organizations often have duplicate versions of the same information in their systems. The information may be stored in different formats; there may be inconsistencies, like in addresses or name spellings; some information may be inaccurate; and it may include obsolete information such as customers or suppliers that have since gone out of business.
+
+Ensuring data quality can become a sizable project on its own, involving validating the data, cleaning out duplicates and adding missing values before migrating data to the ERP system. The new data should also be thoroughly tested before going live with the ERP system. Make sure your team understands the importance of cleaning up data, and assign clear responsibilities in doing so. For example, the accounting team will handle all financial data and the customer service group will clean up customer data.
+
+Change management. An ERP implementation involves more than just switching to a new software system. It typically means overhauling business processes to take advantage of the efficiency and productivity improvements possible with the new solution. This requires a shift in mindset and a change in everyday work processes for many employees, which presents typical change management challenges.
+
+Resistance to change can be a formidable roadblock; getting buy-in from leadership and stakeholders across departments very early in the implementation process is crucial to a successful implementation. Communicate the features and advantages of the new ERP to all stakeholders throughout the implementation process, especially end users on the front lines. And make sure all users receive comprehensive training and support to help smooth their paths to adoption of the system.
